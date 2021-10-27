@@ -1,0 +1,16 @@
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.csproj.AssemblyReference.cache
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.AssemblyInfoInputs.cache
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.AssemblyInfo.cs
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.csproj.CoreCompileInputs.cache
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.exe
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.deps.json
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.runtimeconfig.json
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.runtimeconfig.dev.json
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.dll
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\ref\atividadeGrupo3.dll
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\bin\Debug\net5.0\atividadeGrupo3.pdb
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.dll
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\ref\atividadeGrupo3.dll
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.pdb
+C:\ams\1ano\semestre2\atvdG3\atividadegrupo3\obj\Debug\net5.0\atividadeGrupo3.genruntimeconfig.cache
